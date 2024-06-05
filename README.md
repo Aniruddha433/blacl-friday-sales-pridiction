@@ -39,3 +39,4 @@ Root Mean Square Error (RMSE) is a standard way to measure the error of a model 
 ### Conclusion
 Implanted multiple supervised models such as Linear Regressor,Decision Tree Regressor, Random Forest Regressor and XGBOOST Regressor. Out of these supervised models, based on the RMSE scores XGBRegressor/XGBOOST Regressor was the best performer with a score of 2879.
 
+# blacl-friday-sales-pridiction
